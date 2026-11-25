@@ -108,7 +108,7 @@ The project was developed as a portfolio prototype using synthetic workforce dat
 | Database Design | MySQL 8.0 |
 | Analytics | SQL, Python, Pandas, Scikit-learn |
 | Business Intelligence | Power BI, DAX |
-| Development | Google AI Studio, Visual Studio Code |
+| Development |Visual Studio Code |
 
 ---
 
@@ -360,14 +360,6 @@ South Eastern University of Sri Lanka
 LinkedIn: [www.linkedin.com/in/sammani-jayalath)
 
 GitHub: [My GitHub Profile](https://github.com/jayalathsammanee-star)
-
----
-
-## 🙌 Acknowledgements
-
-Developed as an academic and portfolio project to explore the application of analytics and machine learning in Human Resource Management.
-
-Google AI Studio was used as part of the development workflow.
 
 ---
 
