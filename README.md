@@ -6,7 +6,7 @@ This project demonstrates how data analytics, statistical modeling, and machine 
 
 > **Project Type:** HR Analytics & Workforce Intelligence Prototype  
 > **Data:** Synthetic HR Dataset  
-> **Development Tool:** Google AI Studio + Visual Studio Code
+> **Development Tool:** Visual Studio Code
 
 ---
 
@@ -260,12 +260,6 @@ npm install
 ### 3. Configure Environment Variables
 
 Create a `.env.local` file in the project root if required by the application.
-
-```env
-GEMINI_API_KEY=your_gemini_api_key
-```
-
-Never commit your real API key to GitHub.
 
 ### 4. Run the Development Server
 
