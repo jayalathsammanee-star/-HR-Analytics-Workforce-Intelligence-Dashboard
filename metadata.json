@@ -2,5 +2,5 @@
   "name": "HR Analytics & Workforce Intelligence System",
   "description": "Enterprise HR analytics, relational workforce intelligence, predictive attrition modeling, and BI architecture platform.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE"]
 }
